@@ -2,7 +2,7 @@ A [Giter8][g8] template for a Scala application
 
 Template license
 ----------------
-Written in 2017 by Tan Quach tan.quach@birchwoodlangham.com
+Written in 2017 by [Tan Quach](tan.quach@birchwoodlangham.com)
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
