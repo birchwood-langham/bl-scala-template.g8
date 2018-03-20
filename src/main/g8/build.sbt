@@ -1,7 +1,7 @@
 name := "$name;format="lower,hyphen"$"
 
 lazy val commonSettings = Seq(
-  organization := "com.birchwoodlangham",
+  organization := "$organization$",
   version := "0.0.1-SNAPSHOT",
   scalaVersion in ThisBuild := "$scala_version$",
   scalacOptions ++= Seq("-unchecked", "-deprecation", "-feature", "-encoding", "utf8"),
