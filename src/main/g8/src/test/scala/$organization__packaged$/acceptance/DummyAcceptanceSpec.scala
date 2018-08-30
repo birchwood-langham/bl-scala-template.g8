@@ -1,4 +1,4 @@
-package acceptance
+package $organization$.acceptance
 
 import org.scalatest._
 

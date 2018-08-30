@@ -1,4 +1,4 @@
-package unit
+package $organization$.unit
 
 import org.scalatest.FlatSpec
 
